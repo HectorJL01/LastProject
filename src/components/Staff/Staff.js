@@ -1,6 +1,7 @@
 import React from "react";
 import "./Staff.css";
 
+
 const Staff = props => (
   <div className="card">
 

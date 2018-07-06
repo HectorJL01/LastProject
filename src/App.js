@@ -6,7 +6,7 @@ import Nav from "./components/Nav";
 import Log from "./components/Log";
 import Staff from "./components/Staff";
 import Patient from "./components/Patient"
-import staff from "./staff.json";
+
 
 
 const App = () => (
