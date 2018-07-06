@@ -12,15 +12,11 @@ import staff from "./staff.json";
 const App = () => (
   <Router>
     <div>
-   
- 
-  
+    
       <Switch>
-        <Route exact path="/" component={Log} />
+        <Route exact path="/log" component={Log} />
         <Route exact path="/nav" component={Nav} />
-       
         <Route exact path="/staff" component={Staff} />
-        <Route exact path="/login" component={Login} />
       </Switch>
     </div>
   </Router>
