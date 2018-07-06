@@ -24,6 +24,9 @@ const Patient = props => (
       </ul>
       <h3> Book your appoinment </h3>
     </div>
+    <div className="shedule">
+   
+    </div>
 
 
   </div>
