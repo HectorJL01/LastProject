@@ -5,7 +5,6 @@ import './App.css';
 import Nav from "./components/Nav";
 import Log from "./components/Log";
 import Staff from "./components/Staff"
-import Login from "./components/Login";
 import staff from "./staff.json";
 
 
