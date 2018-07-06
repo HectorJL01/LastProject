@@ -4,7 +4,8 @@ import logo from './logo.svg';
 import './App.css';
 import Nav from "./components/Nav";
 import Log from "./components/Log";
-import Staff from "./components/Staff"
+import Staff from "./components/Staff";
+import Patient from "./components/Patient"
 import staff from "./staff.json";
 
 
@@ -16,6 +17,7 @@ const App = () => (
         <Route exact path="/log" component={Log} />
         <Route exact path="/nav" component={Nav} />
         <Route exact path="/staff" component={Staff} />
+        <Route exact path="/patient" component={Patient} />
       </Switch>
     </div>
   </Router>
