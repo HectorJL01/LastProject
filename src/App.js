@@ -6,7 +6,7 @@ import Nav from "./components/Nav";
 import Log from "./components/Log";
 import Staff from "./components/Staff";
 import Patient from "./components/Patient"
-import Shedule from "./components/Schedule/Schedule";
+import Schedule from "./components/Schedule/Schedule";
 
 
 
