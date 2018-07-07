@@ -6,17 +6,16 @@ import Nav from "./components/Nav";
 import Log from "./components/Log";
 import Staff from "./components/Staff";
 import Patient from "./components/Patient"
-import Schedule from "./components/Schedule/Schedule";
+import Schedule from "./components/Schedule";
 
 
 
 const App = () => (
   <Router>
     <div>
-    
+      <Nav />
       <Switch>
         <Route exact path="/log" component={Log} />
-        <Route exact path="/nav" component={Nav} />
         <Route exact path="/staff" component={Staff} />
         <Route exact path="/patient" component={Patient} />
         <Route exact path="/schedule" component={Schedule} />

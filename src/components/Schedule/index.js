@@ -1,1 +1,1 @@
-export { default } from "./dateArray";
+export { default } from "./Schedule";

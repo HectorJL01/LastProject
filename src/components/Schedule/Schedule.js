@@ -1,9 +1,12 @@
-import React from "react";
+// import React from "react";
 
-const Schedule = () => (
-    <div className="time">
-        const numbers = [1, 2, 3, 4, 5];
-    </div>
-);
+// const Schedule = () => (
+//         <div className="time">
+//         {numbers = [1, 2, 3, 4, 5];
+//          doubled = numbers.map((number) => number * 2)
+//          console.log(doubled);}
 
-export default Schedule;
+//         </div>
+// );
+
+// export default Schedule;
