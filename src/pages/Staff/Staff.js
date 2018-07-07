@@ -6,7 +6,9 @@ import Staffform from "../../components/Staffform/Staffform.js";
 
 
 const Staff = props => (
-  <div className="<Staffcard>
+  <div>
+  <Staffcard />
+  <Staffform />
   </div>
 
 
